@@ -1,0 +1,16 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+a.out
+experiment
+constructors
+
+# Generated data files
+students.csv
+student_records.csv
+
+# IDE files
+.vscode/
+.idea/
